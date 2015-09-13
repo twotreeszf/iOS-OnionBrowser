@@ -23,10 +23,10 @@
 # Choose your tor version and your currently-installed iOS SDK version:
 #
 #VERSION="0.2.5.10"
-VERSION="0.2.6.5-rc"
-USERSDKVERSION="8.2"
+VERSION="0.2.6.10"
+USERSDKVERSION="8.4"
 MINIOSVERSION="6.1"
-VERIFYGPG=true
+VERIFYGPG=false
 
 # If you are in a country that blocks access to "torproject.org",
 # you will likely get an "Error opening archive" message when building.

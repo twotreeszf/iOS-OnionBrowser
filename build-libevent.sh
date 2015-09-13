@@ -23,9 +23,9 @@
 # Choose your libevent version and your currently-installed iOS SDK version:
 #
 VERSION="2.0.22-stable"
-USERSDKVERSION="8.2"
+USERSDKVERSION="8.4"
 MINIOSVERSION="6.1"
-VERIFYGPG=true
+VERIFYGPG=false
 
 ###########################################################################
 #
